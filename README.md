@@ -9,3 +9,4 @@ Convert your job rejection emails to motivational emails on the fly!
 
 To Do:
 In depth Docs
+Terraform script to auto deploy
