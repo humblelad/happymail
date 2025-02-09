@@ -8,5 +8,5 @@ Convert your job rejection emails to motivational emails on the fly!
 <img src="https://github.com/humblelad/happymail/blob/main/images/arch.jpg"  width="500" height="400">
 
 To Do:
-In depth Docs
-Terraform script to auto deploy
+- In depth Docs
+- Terraform script to auto deploy
