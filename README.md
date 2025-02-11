@@ -57,7 +57,7 @@ This writing of the historyid is done by happymail_watcher.py CR function to GCS
 This is the main cloud run function which should be run.
 This cloud run function would be triggeed via cloud pub sub trigger whenever a new mail is recieved in the lable we just set. This saves cost for us otherwise the function would run for each and every new mails which is not good :) . THis is was difficult to figure out but is possible via 'labelFilterBehavior': 'include' 
 
-Create a pub sub event including topic and subscription and the delivery type should be PUSH towards the cloud run funcion.
+Create a pub sub event including topic and subscription and the delivery type should be PUSH towards the cloud run function.
 ![Screenshot 2025-02-11 at 12 38 52 PM](https://github.com/user-attachments/assets/48119318-7ce1-48a3-901b-f51f8fcde335)
 
 ## Important
