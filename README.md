@@ -1,6 +1,7 @@
 # Happymail
 <img src="https://github.com/humblelad/happymail/blob/main/images/happymail.jpg"  width="150" height="100">
 
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7294369458175770624/">Click to open video demo</a>
 
 Convert your job rejection emails to motivational emails on the fly!
 
